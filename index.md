@@ -1,10 +1,4 @@
-## Morgan Jay Rapley
-
-### Horror Author
-
-<hr>
-
-#### About Morgan Jay Rapley
+### About Morgan Jay Rapley
 
 Inspired by some of his favourite authors (including Douglas Adams, Stephen King, Brian Lumley, Dean R. Koontz and Robert Ludlum), Morgan spent much of his free time during University writing short stories, while studying degrees in Education and Drama.
 
@@ -16,11 +10,14 @@ Recently, with the Mythikal series sitting partly developed and slowly growing i
 
 <hr>
 
-### Jericho Pallas
+![JP Cover](https://user-images.githubusercontent.com/104870091/166587580-070371f4-5c91-4074-8cb4-24bf263bb74b.jpg)
 
+### Jericho Pallas
 *August 2021*
 
-Check out the first major work by Morgan Jay Rapley. Jericho Pallas, set in the early 900's, this work follows the tale of a young boy possessed, and explores his fate at the hands of his small village and later the monks that took him in...
+This is the first major release by Morgan. Jericho Pallas, set in the early 900's, follows the tale of a young man possessed, and explores his fate at the hands of his small village and later the monks that took him in, in a hopeless attempt to save his soul...
+
+Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTCBWZF)**
 
 <hr>
 
@@ -28,7 +25,9 @@ Check out the first major work by Morgan Jay Rapley. Jericho Pallas, set in the 
 
 *August 2021*
 
-Following swiftly on the heels of Jericho Pallas comes Slater's Creek, a modern story of a family and two close friends who move together to a small town, and soon realise they've stepped into a place where danger wears a familiar face...
+Following swiftly on the heels of Jericho Pallas comes Slater's Creek, a modern story of a family and two close friends who move together to a small town, and soon realise they've stepped into a place where escape is not an option and danger wears a familiar face...
+
+Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTC557Z)**
 
 <hr>
 
@@ -44,7 +43,7 @@ With all going to plan, next will be the novel *Quaint*, set in outback Australi
 
 No more details are released at this stage except that the process has begun, bones have been written and the prologue has started... 
 
-
+<hr>
 
 
 
