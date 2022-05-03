@@ -14,6 +14,45 @@ Recently, with the Mythikal series sitting partly developed and slowly growing i
 
 **[Jericho Pallas](https://www.amazon.com.au/dp/B09BTCBWZF)**  *and*  **[Slater's Creek](https://www.amazon.com.au/dp/B09BTC557Z)**
 
+<hr>
+
+### Jericho Pallas
+
+*August 2021*
+
+Check out the first major work by Morgan Jay Rapley. Jericho Pallas, set in the early 900's, this work follows the tale of a young boy possessed, and explores his fate at the hands of his small village and later the monks that took him in...
+
+<hr>
+
+### Slater's Creek
+
+*August 2021*
+
+Following swiftly on the heels of Jericho Pallas comes Slater's Creek, a modern story of a family and two close friends who move together to a small town, and soon realise they've stepped into a place where danger wears a familiar face...
+
+<hr>
+
+### What the heck is Snuff Horror?
+
+Snuff Horror is a subgenre of horror novels, where (unlike in snuff films where the subject is of a *real* death) it is not only acceptable but common for one or more favourite characters - or even most of the leads in the story - to succumb to dark forces/evil/death, regularly with an ending that defies conventions of 'happy endings' and often results in the villian/antagonist or a follower surviving to commit further atrocities.
+
+<hr>
+
+### In the works...
+
+With all going to plan, next will be the novel *Quaint*, set in outback Australia: Andy, Mallory and Charlie are moving from the Gold Coast to Perth for a new opportunity, but problems arise deep in the outback desert and soon the family find themselves in a more dangerous environment than simply the desert itself...
+
+No more details are released at this stage except that the process has begun, bones have been written and the prologue has started... 
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/mjrapley/author_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
