@@ -4,6 +4,17 @@
 
 <hr>
 
+#### About Morgan Jay Rapley
+
+Inspired by some of his favourite authors (including Douglas Adams, Stephen King, Brian Lumley, Dean R. Koontz and Robert Ludlum), Morgan spent much of his free time during University writing short stories, while studying degrees in Education and Drama.
+
+With a collection of bite-sized pieces completed, Morgan began planning and working on what will one day be his epic series, The Mythikal, a supernatural tale of werewolves and vampires and man, embroiled in struggle, a tale of rebirth and rejuvination. Books one through three are in second draft phase, and the final three books are yet to be written.
+
+Recently, with the Mythikal series sitting partly developed and slowly growing in the background, and with fresh poetry being written regularly, Morgan spent part of his cancer and chemotherapy journey working on two snuff horror novels back to back:
+
+**[Jericho Pallas](https://www.amazon.com.au/dp/B09BTCBWZF)**  *and*  **[Slater's Creek](https://www.amazon.com.au/dp/B09BTC557Z)**
+
+
 You can use the [editor on GitHub](https://github.com/mjrapley/author_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
