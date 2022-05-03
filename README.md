@@ -1,11 +1,10 @@
 # author_page
 Web presence of horror author Morgan Jay Rapley
-Snuff horror
+
+Experimenting with the snuff horror genre
 
 Poetry
 
 Novels
-
-Books
 
 Jericho Pallas and Slater's Creek now available on Amazon.com
