@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Morgan Jay Rapley
+
+### Horror Author
+
+<hr>
 
 You can use the [editor on GitHub](https://github.com/mjrapley/author_page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -35,3 +39,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+What Morgan has to say about his writing:
+
+>"My writing is like taking a short, sharp journey into something dark and bitter,
+>
+>like fiercely driving a rusted pocket knife into a blackened heart."
+
