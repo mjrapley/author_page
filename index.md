@@ -26,7 +26,7 @@ What Morgan has to say about his writing:
 
 Set in the early 900's, Jericho Pallas isn't the average child, and the residents of the small village he calls home know it. As he grows and his appetites grow darker still, the villagers enlist the aid of monks to take this strange being into their care. Brother Tomas decides to take on the task of easing this pitied soul's sinister urges, possibly even redeeming him and bringing him back to a righteous path. But Tomas has high hopes, and Jericho is a being of dark will and determination...
 
-Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTCBWZF)**
+**[Jericho Pallas](https://www.amazon.com.au/dp/B09BTCBWZF)** available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTCBWZF)**
 
 <br>
 
@@ -36,7 +36,7 @@ Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTCBWZF)**
 
 The town of Slater's Creek has some new residents, but as the Matthis family and their closest friends are about to find out, this small remote town isn't as welcoming as it would first appear. Things aren't quite right, and soon the newest residents start to realise that there's something sinister going on - but they won't get the chance to leave before friendly faces turn against them, shadowy things stalk them, and their world is turned upside down...
 
-Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTC557Z)**
+**[Slater's Creek](https://www.amazon.com.au/dp/B09BTC557Z)** available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTC557Z)**
 
 <br>
 
