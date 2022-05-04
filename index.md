@@ -40,9 +40,7 @@ Available now at **[Amazon.com](https://www.amazon.com.au/dp/B09BTC557Z)**
 
 <hr>
 
-### What the heck is *Snuff Horror*?
-
-<br>
+![snuff](https://user-images.githubusercontent.com/104870091/166608572-a4fa0394-a458-41e6-a26a-067cd5f9fffc.jpg)
 
 Snuff Horror is a subgenre of horror novels, where (unlike in snuff films where the subject is of a *real* death) it is not only acceptable but common for one or more favourite characters - or even most of the leads in the story - to succumb to dark forces/evil/death, regularly with an ending that defies conventions of 'happy endings' and often results in the villian/antagonist or a follower surviving to commit further atrocities.
 
@@ -50,7 +48,7 @@ Snuff Horror is a subgenre of horror novels, where (unlike in snuff films where 
 
 <hr>
 
-![in_the_works](https://user-images.githubusercontent.com/104870091/166606411-08f772f2-45d5-4d8f-8a02-9605f875a935.jpg)
+![in_the_works](https://user-images.githubusercontent.com/104870091/166608582-bdae1059-2b12-471a-9c62-c9447b25205c.jpg)
 
 With all going to plan, next will be the novel *Quaint*, set in outback Australia: Andy, Mallory and Charlie are moving from the Gold Coast to Perth for a new opportunity, but problems arise deep in the outback desert and soon the family find themselves in a more dangerous environment than simply the desert itself...
 
