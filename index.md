@@ -4,11 +4,19 @@
 
 Inspired by some of his favourite authors (including Douglas Adams, Stephen King, Brian Lumley, Dean R. Koontz and Robert Ludlum), Morgan spent much of his free time during University writing short stories, while studying degrees in Education and Drama.
 
-With a collection of bite-sized pieces completed, Morgan began planning and working on what will one day be his epic series, The Mythikal, a supernatural tale of werewolves and vampires and man, embroiled in struggle, a tale of rebirth and rejuvination. Books one through three are in second draft phase, and the final three books are yet to be written.
+With a collection of bite-sized pieces completed, Morgan began planning and working on what will one day be his epic series, The Mythikal, and continued to write other story concepts and poetry in the background for some time.
 
 Recently, with the Mythikal series sitting partly developed and slowly growing in the background, and with fresh poetry being written regularly, Morgan spent part of his cancer and chemotherapy journey working on two snuff horror novels back to back:
 
 **[Jericho Pallas](https://www.amazon.com.au/dp/B09BTCBWZF)**  *and*  **[Slater's Creek](https://www.amazon.com.au/dp/B09BTC557Z)**
+
+<br>
+
+What Morgan has to say about his writing:
+
+>"My writing is like taking a short, sharp journey into something dark and bitter,
+>
+>like fiercely driving a rusted pocket knife into a blackened heart."
 
 <hr>
 
@@ -42,9 +50,7 @@ Snuff Horror is a subgenre of horror novels, where (unlike in snuff films where 
 
 <hr>
 
-### In the works...
-
-<br>
+![in_the_works](https://user-images.githubusercontent.com/104870091/166606411-08f772f2-45d5-4d8f-8a02-9605f875a935.jpg)
 
 With all going to plan, next will be the novel *Quaint*, set in outback Australia: Andy, Mallory and Charlie are moving from the Gold Coast to Perth for a new opportunity, but problems arise deep in the outback desert and soon the family find themselves in a more dangerous environment than simply the desert itself...
 
@@ -52,23 +58,8 @@ No more details are released at this stage except that the process has begun, bo
 
 <br>
 
+In other news, The Mythikal series - a supernatural tale of werewolves and vampires and man, embroiled in struggle, a tale of rebirth and rejuvination - is sitting in mid-production stage. Books one through three are in second draft phase, and the final three books are yet to be written. Planning has changed over the years, and amendments are to be made to the first half of the series to align with the new ending plans. Work is due to continue on these books once Quaint is complete.
+
+<br>
+
 <hr>
-
-
-
-
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjrapley/author_page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-
-What Morgan has to say about his writing:
-
->"My writing is like taking a short, sharp journey into something dark and bitter,
->
->like fiercely driving a rusted pocket knife into a blackened heart."
-
